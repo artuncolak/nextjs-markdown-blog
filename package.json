@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-markdown-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "gray-matter": "^4.0.2",
+    "next": "10.0.3",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "17.0.1",
+    "react-markdown": "^5.0.3",
+    "react-syntax-highlighter": "^15.4.3",
+    "remark-gfm": "^1.0.0"
+  }
+}
